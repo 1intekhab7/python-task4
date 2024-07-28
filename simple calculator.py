@@ -27,5 +27,14 @@ print("please select operation -\n" \
       "4 divide\n")
 
 
+#take input from the user 
+ select = int(input("select operation from 1, 2, 3, 4 :"))
+
+number_1 = int(input("enter first number: "))
+number_2 = int(int("enter second number: "))
+
+
+
+
 
    
